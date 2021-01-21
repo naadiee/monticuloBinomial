@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\ingenieria\binomialheap\binomialheap\main.cpp(31): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  BinomialHeap.vcxproj -> C:\ingenieria\BinomialHeap\Debug\BinomialHeap.exe
